@@ -1,0 +1,122 @@
+:root {
+    --orange1: #F7A713;
+    --orange2: #DB632D;
+    --orange3: #E16520;
+    --blue1: #007CC1;
+    --blue2: #26B9D5;
+    --gray1: #E8E8E8;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 87vh;
+}
+
+.container-colum{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container-row{
+    display: flex;
+}
+.title-item{
+    display: inline-block;
+    padding: 5px;
+    color: white;
+    background: linear-gradient(90deg, var(--blue1) 0%, var(--blue2) 100%);
+    border-radius: 1000px;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn-item{
+    display: inline-block;
+    padding: 5px;
+    color: white;
+    background: linear-gradient(90deg, var(--orange1) 0%, var(--orange2) 100%);
+    border-radius: 1000px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.input-item{
+    display: inline-block;
+    padding: 5px;
+    background-color: white;
+    border-radius: 1000px;
+    border: solid 2px var(--gray1);
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Avatar{
+    border-radius: 100%;
+    border: solid 5px var(--orange3);
+    width: 35vw;
+}
+.p-15{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.p-25{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.mt-15{
+    margin-top: 15px;
+}
+.mt-25{
+    margin-top: 25px;
+}
+.mb-15{
+    margin-bottom: 15px;
+}
+.mb-25{
+    margin-bottom: 25px;
+}
+.logo-animatie-page {
+    width: 200px;
+    height: 200px;
+    animation: animatieLogo 1.5s ease-in-out;
+}
+
+#h1-animatie-page {
+    animation: animatieH1 0.5s ease-in-out forwards;
+    animation-delay: 1.5s;
+    opacity: 0;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 5px;
+}
+
+.displayNone{
+    display: none;
+}
+
+@keyframes animatieLogo{
+    0% {
+        transform: scale(0.5);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes animatieH1{
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
