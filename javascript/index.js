@@ -3,7 +3,7 @@ function redirect () {
  }
 
  function myURL() {
-    document.location.href = './pages/test.html';
+    document.location.href = './pages/animatie_laden.html';
  }
 
  redirect();

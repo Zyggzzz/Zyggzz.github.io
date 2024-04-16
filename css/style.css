@@ -12,14 +12,20 @@
     font-weight: bold;
 }
 
-
+body{
+    /* overflow: hidden; */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
 /* Het is footer ook img */
-footer {
-    position: absolute;
+.footer {
+    /* position: absolute;
     bottom: 0;
     display: flex;
-    align-items: bottom;
-    width: 100%;
+    align-items: bottom; */
+    margin-top: auto;
+    width: 100vw;
 }
 
 .container-colum{
