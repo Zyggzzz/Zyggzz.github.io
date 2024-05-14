@@ -119,6 +119,23 @@ body{
     padding-left: 45px;
     padding-right: 45px;
 }
+/* ------ */
+.p-tb-15{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.p-tb-25{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.p-tb-35{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.p-tb-45{
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
 /* margin-top */
 .mt-15{
     margin-top: 15px;
