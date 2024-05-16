@@ -27,7 +27,12 @@ body{
     margin-top: auto;
     width: 100vw;
 }
-
+.footer-content {
+    display: flex;
+    justify-content: center; /* Centreert de inhoud horizontaal */
+    gap: 20px; /* Voegt wat ruimte toe tussen de links */
+  }
+/* container */
 .container-colum{
     display: flex;
     flex-direction: column;
@@ -44,6 +49,7 @@ body{
     flex-direction: row;
     align-items: center;
 }
+/* justify-content  flexbox */
 .c-center{
     justify-content: center;
 }
@@ -53,6 +59,7 @@ body{
 .c-sb{
     justify-content: space-between;
 }
+/* H1, TITLE */
 .title-item{
     /* display: inline-block; */
     margin: 20px;
@@ -64,6 +71,7 @@ body{
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
 }
+ /* INPUTS  */
 .input-item{
     /* display: inline-block; */
     text-align: center;
@@ -77,9 +85,10 @@ body{
     color: black;
     font-weight: lighter;
 }
+/* button */
 .btn-item{
     display: inline-block;
-    padding: 10px;
+    padding: 14px;
     color: white;
     background: linear-gradient(90deg, var(--orange1) 0%, var(--orange2) 100%);
     border-radius: 1000px;
@@ -95,6 +104,15 @@ body{
     padding: 5vw;
     background: linear-gradient(90deg, var(--blue1) 0%, var(--blue2) 100%);
     border-radius: 10px;
+}
+.pijl-block{
+    width: 9vw;
+    height: 7.2vw;
+    padding: 2.1vw;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    background: linear-gradient(90deg, var(--blue1) 0%, var(--blue2) 100%);
+    border-radius: 5px;
 }
 /* Avatar icon of img */
 .Avatar{
