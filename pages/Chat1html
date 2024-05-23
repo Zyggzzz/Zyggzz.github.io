@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat</title>
+    <link rel="icon" type="image/x-icon" href="/img/logo-coptermail.svg">
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/massage_buble.css">
+</head>
+<body>
+    <div class="container-row c-sa">
+        <img style="width: 10vw;" class="ml-15" src="../img/pijl-icon.svg" alt="pijl-svg">
+        <div class="title-item" style="width: 90vw;">DOUGLAS 12-02-2020</div>
+    </div>
+    <div class="container-row c-sa">  
+        <div class="btn-item ml-15" style="width: 90vw;">INFORMATIE</div>
+        <img class="pijl-block mlr-25 " src="../img/pijl-line-icon.svg" alt="pijl-svg">
+    </div>
+
+    <div class="imessage">
+        <p class="from-them">Goedemiddag NAAM,<br><br>
+
+            Uw pakket wordt over 30 minuten bezorgd. Geeft u akkoord?<br><br>
+            
+            Antwoord met JA of NEE</p>
+        <p class="from-me">JA</p>
+      </div>
+        <div class="container-row c-sa mt-15">  
+            <input class="input-item " placeholder="Typ hier uw reactie" />
+            <img class="pijl-block mlr-25 " src="../img/pijl-line-icon.svg" alt="pijl-svg">
+        </div>
+    
+        <img class="footer" src="../img/footer.svg" alt="footersvg">
+</body>
+</html>
