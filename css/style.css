@@ -17,6 +17,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    margin: 0;
 }
 /* Het is footer ook img */
 .footer {
@@ -70,6 +71,9 @@ body{
     border-radius: 1000px;
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
+}
+.fns-klein{
+    font-size: 20px;
 }
  /* INPUTS  */
 .input-item{
