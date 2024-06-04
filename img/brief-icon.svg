@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31.979" height="22.686" viewBox="0 0 31.979 22.686">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f99400"/>
+      <stop offset="1" stop-color="#d14c1f"/>
+    </linearGradient>
+  </defs>
+  <g id="Сгруппировать_29" data-name="Сгруппировать 29" transform="translate(-664.758 -2156.887)">
+    <path id="Контур_58" data-name="Контур 58" d="M679.718,2169.354l-13.96,9.219v-20.686Z" stroke="#fff" stroke-linejoin="round" stroke-width="2" fill="url(#linear-gradient)"/>
+    <path id="Контур_59" data-name="Контур 59" d="M705.2,2157.887v20.686l-13.96-9.219Z" transform="translate(-9.459)" stroke="#fff" stroke-linejoin="round" stroke-width="2" fill="url(#linear-gradient)"/>
+    <path id="Контур_60" data-name="Контур 60" d="M695.737,2157.887l-13.96,11.467-1.029.844-1.029-.844-13.96-11.467Z" stroke="#fff" stroke-linejoin="round" stroke-width="2" fill="url(#linear-gradient)"/>
+    <path id="Контур_61" data-name="Контур 61" d="M695.737,2185.344H665.758l13.96-9.219,1.029.844,1.029-.844Z" transform="translate(0 -6.771)" stroke="#fff" stroke-linejoin="round" stroke-width="2" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31.425" height="31.435" viewBox="0 0 31.425 31.435">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f99400"/>
+      <stop offset="1" stop-color="#d14c1f"/>
+    </linearGradient>
+  </defs>
+  <g id="Сгруппировать_28" data-name="Сгруппировать 28" transform="translate(-737.089 -2144.805)">
+    <g id="Сгруппировать_27" data-name="Сгруппировать 27" transform="translate(738.153 2145.875)">
+      <path id="Контур_57" data-name="Контур 57" d="M767.346,2154.485a8.116,8.116,0,0,0-8.5-8.5c-2.422-.14-9.667-.14-12.089,0a8.115,8.115,0,0,0-8.5,8.5c-.128,2.421-.128,9.667,0,12.082a8.116,8.116,0,0,0,8.5,8.5c2.422.141,9.667.141,12.089,0a8.106,8.106,0,0,0,8.5-8.5C767.48,2164.146,767.48,2156.906,767.346,2154.485ZM752.8,2166.593a6.07,6.07,0,1,1,6.064-6.07A6.08,6.08,0,0,1,752.8,2166.593Z" transform="translate(-738.153 -2145.875)" stroke="#fff" stroke-linejoin="round" stroke-width="2" fill="url(#linear-gradient)"/>
+    </g>
+    <circle id="Эллипс_10" data-name="Эллипс 10" cx="2.052" cy="2.052" r="2.052" transform="translate(759.153 2150.066)" fill="#fff"/>
+  </g>
+</svg>

@@ -89,6 +89,15 @@ body{
     color: black;
     font-weight: lighter;
 }
+.t-a-left{
+    text-align:left;
+}
+.t-a-right{
+    text-align:right;
+}
+.t-a-center{
+    text-align:center;
+}
 /* button */
 .btn-item{
     display: inline-block;
@@ -101,11 +110,22 @@ body{
     font-weight: lighter;
 }
 
+.fn-w{
+    font-weight: lighter;
+}
+
 
 .icon-item{
     width: 15vw;
     height: 15vw;
     padding: 5vw;
+    background: linear-gradient(90deg, var(--blue1) 0%, var(--blue2) 100%);
+    border-radius: 10px;
+}
+.mini-icon-item{
+    width: 9vw;
+    height: 9vw;
+    padding: 3vw;
     background: linear-gradient(90deg, var(--blue1) 0%, var(--blue2) 100%);
     border-radius: 10px;
 }
@@ -125,6 +145,14 @@ body{
     width: 35vw;
 }
 /* padding */
+.p-5{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.p-10{
+    padding-left: 10px;
+    padding-right: 10px;
+}
 .p-15{
     padding-left: 15px;
     padding-right: 15px;
@@ -200,6 +228,10 @@ body{
    margin-left: 25px;
    margin-right: 25px;
 }
+.mlr-45{
+    margin-left: 45px;
+    margin-right: 45px;
+ }
 .ml-15{
     margin-left: 15px;
 }
