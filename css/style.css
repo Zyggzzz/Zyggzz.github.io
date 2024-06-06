@@ -125,6 +125,9 @@ body{
 .fn-w{
     font-weight: lighter;
 }
+.fn-wb{
+    font-weight: bold;
+}
 
 
 .icon-item{
@@ -199,13 +202,21 @@ body{
     padding-bottom: 45px;
 }
 /* margin-top */
+.mt-5{
+    margin-top: 5px;
+}
+.mt-10{
+    margin-top: 10px;
+}
 .mt-15{
     margin-top: 15px;
 }
 .mt-25{
     margin-top: 25px;
 }
-
+.mt-35{
+    margin-top: 35px;
+}
 .mt-50 {
     margin-top: 50px;
 }
@@ -215,11 +226,23 @@ body{
 }
 
 /* margin-top */
+.mb-5{
+    margin-bottom: 5px;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
 .mb-15{
     margin-bottom: 15px;
 }
 .mb-25{
     margin-bottom: 25px;
+}
+.mb-35{
+    margin-bottom: 35px;
+}
+.mb-50{
+    margin-bottom: 50px;
 }
 .mb-half{
     margin-bottom: 50vw;
