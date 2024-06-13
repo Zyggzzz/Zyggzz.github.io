@@ -74,7 +74,7 @@
     color: #000;
   }
   
-  p.from-them:before {
+  p.from-them::before {
     border-bottom-right-radius: 0.8rem 0.7rem;
     border-left: 1rem solid #e5e5ea;
     left: -0.35rem;

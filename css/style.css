@@ -307,9 +307,14 @@ body{
 }
 
 .droneImg {
-    width: 80%;
-    height: 80%;
+    width: 60%;
+    height: 60%;
     margin-right: 50px;
+}
+
+.phoneImg {
+    width: 60%;
+    height: 60%;
 }
 
 .doosImg {
@@ -326,6 +331,21 @@ body{
     font-weight: bold;
     font-size: 25px;
     letter-spacing: 5px;
+}
+
+#circles {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle {
+    width: 50vw;
+    height: 27px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
 }
 
 .displayNone{
