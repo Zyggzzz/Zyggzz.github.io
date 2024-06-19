@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 46 46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+        stroke: #fff;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+        stroke-width: 0px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="5.13" y1="40.41" x2="6.13" y2="40.41" gradientTransform="translate(-236 1882) scale(46 -46)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#037dc2"/>
+      <stop offset="1" stop-color="#14adcd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="7.79" y1="33.66" x2="8.79" y2="33.66" gradientTransform="translate(-243.02 866.25) scale(32.08 -25.06)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8951d"/>
+      <stop offset="1" stop-color="#d14d27"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-2" width="46" height="46" rx="7" ry="7"/>
+  <path id="Path_20" data-name="Path 20" class="cls-1" d="M6.9,22.22c.14-.28.34-.54.59-.74.85-.78,1.69-1.58,2.54-2.37.35-.43.97-.5,1.41-.15.08.06.15.14.2.22l6.29,6.67c.3.46.91.6,1.37.3.12-.08.22-.18.3-.29,4.89-5.07,9.79-10.14,14.68-15.21.17-.22.41-.37.68-.43.1-.04.22-.04.32,0,.23.04.44.16.59.33.92.96,1.84,1.92,2.76,2.89.44.4.47,1.09.07,1.53-.02.03-.05.05-.08.08-6.36,6.61-12.72,13.21-19.08,19.82-.33.43-.94.52-1.37.19-.07-.05-.14-.12-.19-.19-3.66-3.78-7.2-7.68-10.76-11.56-.14-.15-.2-.34-.33-.5v-.58Z"/>
+</svg>
