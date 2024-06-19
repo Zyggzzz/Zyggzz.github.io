@@ -159,6 +159,23 @@ body{
     border: solid 5px var(--orange3);
     width: 35vw;
 }
+
+.profielfoto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.avatarSettings {
+    border-radius: 100%;
+    border: solid 5px var(--orange3);
+    width: 20vw;
+}
+
+.profielfotoWijzigen {
+    width: 60%;
+    margin: 0 auto;
+}
 /* padding */
 .p-5{
     padding-left: 5px;
@@ -313,14 +330,41 @@ body{
 }
 
 .phoneImg {
-    width: 60%;
-    height: 60%;
+    width: 55%;
+    height: 55%;
 }
 
 .doosImg {
     width: 40%;
     height: 40%;
     margin-left: 50px;
+}
+
+.prev {
+    display: block;
+    z-index: 100;
+    width: 50vw;
+    position: fixed;
+    height: 100vh;
+    left: 0;
+}
+.next {
+    display: block;
+    z-index: 100;
+    width: 50vw;
+    height: 100vh;
+    position: fixed;
+    right: 0;
+}
+
+.category {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    left: 0;
+    width: 70%;
 }
 
 #h1-animatie-page {
